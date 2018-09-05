@@ -10,7 +10,7 @@
         android:id="@+id/image"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/img_barca"/>
+        tools:src="@drawable/img_acm"/>
 
     <TextView
         android:id="@+id/name"
@@ -18,6 +18,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:layout_gravity="center_vertical"
-        tools:text="Barcelona FC"/>
+        tools:text="AC Milan FC"/>
 
 </LinearLayout>
